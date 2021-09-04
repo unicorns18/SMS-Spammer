@@ -4,7 +4,7 @@
 
 ###### Please register at "vonage" to get a trial 2 EUR and your api-key and secret-key. :)
 
-# Please note this uses the E.164 format. (LINK: https://www.twilio.com/docs/glossary/what-e164)
+#### Please note this uses the E.164 format. (LINK: https://www.twilio.com/docs/glossary/what-e164)
 
 * git clone https://github.com/unicorns18/SMS-Spammer.git
 * cd SMS-Spammer
