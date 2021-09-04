@@ -12,6 +12,7 @@ print(Style.RESET_ALL)
 phone_number = int(input("What phone number do you want to message: "))
 message_body = str(input("What is the message you want to send: "))
 
+# Add your key and secret key from Vonage here! :)
 client = vonage.Client(key='YOUR_KEY', secret='YOUR_SECRET_KEY')
 sms = vonage.Sms(client)
 
